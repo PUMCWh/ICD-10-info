@@ -15,13 +15,13 @@ This file serves as a supplement to **Supplementary Table S25** in the main publ
 
 ## Files
 
-* `icd10_code_list_full.csv`: The complete list of ICD-10 codes, their descriptions, chapter/block information, and prevalence in the study population.
+* `icd10_code_list_full.xlsx`: The complete list of ICD-10 codes, their descriptions, chapter/block information, and prevalence in the study population.
 
 ---
 
 ## Data Dictionary
 
-The `.csv` file contains the following columns:
+The `.xlsx` file contains the following columns:
 
 | Column Name         | Description                                                                 |
 | ------------------- | --------------------------------------------------------------------------- |
